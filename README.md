@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Deseo bajo el sol |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deseo bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-el-sol/) |
+| **Get License** | [Get a Licensing Quote for Deseo bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-el-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Bailando en lo oscuro buscando tu calor
-> Tú tienes la magia, la cura al dolor
-> Me miras de frente y pierdo el control
-> Buscando en la noche deseo bajo el sol
+> Bésame hasta el amanecer
+> Tu piel con la luna va a arder
+> No quiero control, solo caer
+> Deseo bajo el sol, mujer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
