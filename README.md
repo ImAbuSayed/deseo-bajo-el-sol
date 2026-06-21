@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando en lo oscuro buscando tu calor
+> Tú tienes la magia, la cura al dolor
+> Me miras de frente y pierdo el control
+> Buscando en la noche deseo bajo el sol
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
