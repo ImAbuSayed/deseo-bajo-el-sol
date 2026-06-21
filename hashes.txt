@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo bajo el sol
+
+This log tracks the cryptographic history and versioning for the song **Deseo bajo el sol** (deseo-bajo-el-sol).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:00:15.463781 | `v1` | `36074efc214fbc71bcc0c4f28b7e51d59eb491143f638628b3cd85bcfef541cc` | `6cab7bcefdaaa5be588f93439c0095179371ca4f2875bc09534ce16a7a932fd1` | `2026-06-22_deseo-bajo-el-sol-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

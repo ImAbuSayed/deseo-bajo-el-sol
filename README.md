@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-bajo-el-sol/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deseo bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-el-sol/) |
+| **Get License** | [Get License For Deseo bajo el sol](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-el-sol/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `36074efc214fbc71bcc0c4f28b7e51d59eb491143f638628b3cd85bcfef541cc` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
